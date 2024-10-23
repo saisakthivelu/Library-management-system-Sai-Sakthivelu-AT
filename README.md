@@ -1,2 +1,2 @@
-# Sai-Sakthivelu-AT
-Library management System
+# Library management System
+Sai Sakthivelu AT
